@@ -1,0 +1,2 @@
+ru/netology/service/CashbackHackServiceTest.java
+ ru.netology.service.CashbackHackServiceTest
